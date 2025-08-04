@@ -1,6 +1,6 @@
 ### **育见成长隐私政策**  
 **生效日期：2025年7月16日**  
-**政策链接：https://www.growthtracker.app/privacy**
+**政策链接：https://github.com/zhatrix/GrowthTracker/blob/main/privacy_zh.md**
 
 ---
 
