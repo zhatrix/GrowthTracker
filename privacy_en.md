@@ -1,6 +1,6 @@
 Growth Tracker Privacy Policy
 Effective Date: July 16, 2025
-Policy URL: https://www.growthtracker.app/privacy (Replace with your actual link)
+Policy URL: https://github.com/zhatrix/GrowthTracker/blob/main/privacy_en.md 
 
 ### 1. What We Collect
 To provide core services, we only collect:
